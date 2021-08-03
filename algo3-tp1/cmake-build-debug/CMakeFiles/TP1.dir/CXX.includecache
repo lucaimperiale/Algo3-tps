@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Luca/Desktop/Facultad/Algo 3/TP1/funciones.cpp
+funciones.h
+C:/Users/Luca/Desktop/Facultad/Algo 3/TP1/funciones.h
+
+C:/Users/Luca/Desktop/Facultad/Algo 3/TP1/funciones.h
+iostream
+-
+vector
+-
+cmath
+-
+bitset
+-
+
+C:/Users/Luca/Desktop/Facultad/Algo 3/TP1/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+funciones.h
+C:/Users/Luca/Desktop/Facultad/Algo 3/TP1/funciones.h
+
